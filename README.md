@@ -1,4 +1,4 @@
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&width=435&lines=Hi+there+%F0%9F%91%8B+I'm+Fatma!;Flutter+Developer+%7C+Problem+Solver;Code.+Learn.+Improve." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&width=600&lines=Hi+there+%F0%9F%91%8B+I'm+Fatma!;Flutter+Developer+%7C+Problem+Solver;Code.+Learn.+Improve." alt="Typing SVG" />
 ### 👩‍💻 About Me
 
 ✨ Passionate about building beautiful, scalable apps with Flutter  
